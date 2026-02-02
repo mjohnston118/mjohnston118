@@ -20,4 +20,6 @@ social: true # includes social icons at the bottom of the page
 
 Postdoctoral Researcher in Developmental Psychology. Research interests include the development of cognitive control, proactive control, and episodic future thinking. Also interested in affective psychology and the links between anticipatory emotions and decision-making. See [here](https://osf.io/kp68q_v1/) for my latest pre-print exploring the developmental dynamics between statistical learning and cognitive control. 
 
+Demonstrative ability to independently secure grants and to work collaboratively within teams. Proficient programming skills with experience in R, Python, JavaScript, and Matlab. Substantial leadership skills and teaching experience at undergraduate and MSc level with an AFHEA qualification. Passionate about developing creative experiments that capture latent psychological and social constructs.
+
 Beyond research, I enjoy drinking coffee and attempting to play electric guitar and bass guitar. See the link here for my latest music release with Edinburgh-based band [FERNS](https://musicoftheferns.bandcamp.com/album/fronds-in-high-places).
