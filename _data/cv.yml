@@ -5,16 +5,6 @@ cv:
   location: Edinburgh, UK
   summary: PhD in Cognitive Development from Queen's University Belfast. My research focuses on understanding how children acquire knowledge and skills, with a particular emphasis on future-oriented and social cognition. Experienced in experimental design, data analysis, and academic writing, I am passionate about advancing our understanding of cognitive processes in early childhood.
 
-  social_networks:
-    - network: Blue Sky
-      username: https://bsky.app/profile/mattdjohnston.bsky.social
-    - network: GitHub
-      username: https://github.com/mjohnston118?tab=repositories
-    - network: LinkedIn
-      username: https://www.linkedin.com/in/matthew-johnston-14b462151/
-    - network: ResearchGate
-      username: https://www.researchgate.net/profile/Matthew-Johnston-14
-
   sections:
     Education:
       - institution: Queen's University Belfast
@@ -40,6 +30,18 @@ cv:
           - Graduated with First Class Honours.
           - Relevant coursework: Developmental Psychology, Cognitive Psychology, Research Methods, Statistics.
 
+    Social Networks:
+    - network: Blue Sky
+      username: https://bsky.app/profile/mattdjohnston.bsky.social
+    - network: GitHub
+      username: https://github.com/mjohnston118?tab=repositories
+    - network: LinkedIn
+      username: https://www.linkedin.com/in/matthew-johnston-14b462151/
+    - network: ResearchGate
+      username: https://www.researchgate.net/profile/Matthew-Johnston-14
+    - network: Google scholar
+      username: https://scholar.google.co.uk/citations?hl=en&user=4nHRnloAAAAJ&view_op=list_works&sortby=pubdate
+    
     Experience:
       - company: University of Edinburgh
         position: Postdoctoral Researcher
@@ -98,11 +100,11 @@ cv:
           - Assisted teachers in planning and delivering lessons.
           - Assisted one student in moving from a special needs to mainstream school.
 
-    Volunteer:
+    Volunteering:
       - company: Barretstown
         position: Volunteer Cara
         location: Co. Kildare, Ireland
-        date: Summer 2016
+        date: July 2016
         summary: Volunteered as a 'Cara' (friend) at Barretstown, a camp for children with serious illnesses. Supported children in various activities including arts and crafts, outdoor adventures, and team-building exercises.
 
     Awards:
@@ -276,7 +278,7 @@ cv:
             volume: 6
             issue: 1
 
-    Publications_In_Progress:
+    category: Publications_In_Progress
       - title: "Developmental dynamics between cognitive control and statistical learning in middle childhood"
         authors:
           - "**Johnston, M.**"
@@ -333,7 +335,7 @@ cv:
       - name: Spanish
         summary: "Conversational proficiency"
 
-    Selected_Symposia_and_Conference_Presentations:
+    Selected Talks:
       - title: "The interplay between cognitive control and statistical learning processes in older adults"
         authors:
           - Johnston, M.
@@ -422,7 +424,7 @@ cv:
         date: 2019
         location: Athens, Greece
     
-    Public_Engagement_and_Knowledge_Exchange:
+    Public Engagement:
       - title: "How the mind works – a cognitive science discovery day"
         authors:
           - Johnston, M.
@@ -461,7 +463,7 @@ cv:
         outlet: PsyPAG Quarterly
         issue: 188
 
-    Reviewer_Experience:
+    Reviewer Experience:
       - journal: Cognitive Development
         year: 2025
         description: Reviewed manuscript on basic attentional functions and social interactions in primary school children.
