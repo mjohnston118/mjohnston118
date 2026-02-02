@@ -5,9 +5,11 @@ nav: true
 nav_order: 8
 dropdown: true
 children:
-  - title: bookshelf
-    permalink: /books/
-  - title: divider
-  - title: blog
-    permalink: /blog/
+  - title: cv
+    permalink: /cv/
+  - title: repositories
+    permalink: /repositories/
+  - title: teaching
+    permalink: /teaching/
+
 ---
