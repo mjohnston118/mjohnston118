@@ -9,7 +9,7 @@ children:
     permalink: /cv/
   - title: repositories
     permalink: /repositories/
-  - title: teaching
-    permalink: /teaching/
+  - title: publications
+    permalink: /publications/
 
 ---
