@@ -497,7 +497,7 @@ ninja.data = [{
         title: 'CV',
         section: 'Socials',
         handler: () => {
-          window.open("/mjohnston118/assets/rendercv/rendercv_output.Matthew_Johnston_CV.pdf", "_blank");
+          window.open("/mjohnston118/assets/rendercv/rendercv_output/Matthew_Johnston_CV.pdf", "_blank");
         },
       },{
         id: 'social-email',
