@@ -44,12 +44,12 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/mjohnston118/repositories/";
               },
-            },{id: "dropdown-teaching",
-              title: "teaching",
+            },{id: "dropdown-publications",
+              title: "publications",
               description: "",
               section: "Dropdown",
               handler: () => {
-                window.location.href = "/mjohnston118/teaching/";
+                window.location.href = "/mjohnston118/publications/";
               },
             },{id: "post-a-post-with-plotly-js",
         
@@ -430,8 +430,8 @@ ninja.data = [{
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
-          section: "News",},{id: "projects-project-1",
-          title: 'project 1',
+          section: "News",},{id: "projects-developmental-dynamics-between-statistical-learning-and-cognitive-control",
+          title: 'Developmental Dynamics Between Statistical Learning and Cognitive Control',
           description: "with background image",
           section: "Projects",handler: () => {
               window.location.href = "/mjohnston118/projects/1_project/";
