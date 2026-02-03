@@ -127,10 +127,10 @@ cv:
           - "Németh, D."
           - "Chevalier, N."
         publisher: Child Development
-        releaseDate: 2025
+        releaseDate: Resubmit
         summary: Minor revisions. Preprint available on PsyArXiv.
 
-      - title: "Counterfactual relief"
+      - title: "Counterfactual Relief"
         authors:
           - "Feeney, A."
           - "Lorimer, S."
@@ -139,8 +139,56 @@ cv:
           - "Beck, S. R."
           - "Johnston, M."
           - "McCormack, T."
-        publisher: Cognition
+        publisher: Memory & Cognition
         releaseDate: 2025
+
+      - title: "An experimental investigation of the effects of anticipating regret and relief on intentions and decisions to get the influenza vaccination"
+        authors:
+          - "Lorimer, S."
+          - "McCormack, T."
+          - "Graham, A. J."
+          - "Hoerl, C."
+          - "Beck, S. R."
+          - "Johnston, M."
+          - "Feeney, A."
+        publisher: Social Science & Medicine
+        releaseDate: 2025
+        summary: Article 118517
+
+      - title: "Testicular self‐examination: The role of anticipated relief and anticipated regret"
+        authors:
+          - "Lorimer, S."
+          - "McCormack, T."
+          - "Hoerl, C."
+          - "Beck, S. R."
+          - "Johnston, M."
+          - "Feeney, A."
+        publisher: British Journal of Health Psychology
+        releaseDate: 2025
+        summary: 30(1), e12756
+
+      - title: "Children's understanding of temporally mediated stated emotions"
+        authors:
+          - "Johnston, M."
+          - "McCormack, T."
+          - "Jaroslawska, A. J."
+          - "Lorimer, S."
+          - "Beck, S."
+          - "Hoerl, C."
+          - "Feeney, A."
+        publisher: Journal of Experimental Child Psychology
+        releaseDate: 2024
+
+      - title: "Do both anticipated relief and anticipated regret predict seasonal influenza vaccine intentions and uptake?"
+        authors:
+          - "Lorimer, S."
+          - "McCormack, T."
+          - "Hoerl, C."
+          - "Beck, S. R."
+          - "Johnston, M."
+          - "Feeney, A."
+        publisher: British Journal of Health Psychology
+        releaseDate: 2024
 
       - title: "Relief in everyday life"
         authors:
@@ -153,6 +201,73 @@ cv:
         publisher: Emotion
         releaseDate: 2022
 
+      - title: "Children's understanding of counterfactual and temporal relief in others"
+        authors:
+          - "Johnston, M."
+          - "McCormack, T."
+          - "Jaroslawska, A. J."
+          - "Lorimer, S."
+          - "Beck, S."
+          - "Hoerl, C."
+          - "Feeney, A."
+        publisher: Journal of Experimental Child Psychology
+        releaseDate: 2022
+
+      - title: "Attention abilities, focused attention, and social communication skills of very preterm infants after training attention control: results from a feasibility study of a randomised controlled trial"
+        authors:
+          - "Perra, O."
+          - "Wass, S."
+          - "McNulty, A."
+          - "Sweet, D."
+          - "Papageorgiou, K. A."
+          - "Johnston, M."
+          - "Alderdice, F."
+        publisher: PLoS One
+        releaseDate: 2022
+        summary: 17(9), e0273767
+
+      - title: "Getting Brexit done: Leavers and Remainers experience different types of relief about Britain's decision to leave the EU"
+        authors:
+          - "Lorimer, S."
+          - "McCormack, T."
+          - "Graham, A. J."
+          - "Hoerl, C."
+          - "Beck, S. R."
+          - "Johnston, M."
+          - "Feeney, A."
+        publisher: Social Psychological and Personality Science
+        releaseDate: 2021
+        summary: 19485506211066712
+
+      - title: "Very preterm infants engage in an intervention to train their control of attention: results from the feasibility study of the Attention Control Training (ACT) randomised trial"
+        authors:
+          - "Perra, O."
+          - "Wass, S."
+          - "McNulty, A."
+          - "Sweet, D."
+          - "Papageorgiou, K. A."
+          - "Johnston, M."
+          - "Bilello, D."
+          - "Alderdice, F."
+        publisher: Pilot and Feasibility Studies
+        releaseDate: 2021
+        summary: 7(1), 1-23
+
+      - title: "Training attention control of very preterm infants: protocol for a feasibility study of the ACT"
+        authors:
+          - "Perra, O."
+          - "Wass, S."
+          - "McNulty, A."
+          - "Sweet, D."
+          - "Papageorgiou, K."
+          - "Johnston, M."
+          - "Bilello, D."
+          - "Alderdice, F."
+        publisher: Pilot and Feasibility Studies
+        releaseDate: 2020
+        summary: 6(1), 1-11
+
+    Manuscripts Under Review:
       - title: "Developmental dynamics between cognitive control and statistical learning in middle childhood"
         authors:
           - "Johnston, M."
@@ -161,8 +276,7 @@ cv:
           - "Chevalier, N."
         publisher: Child Development
         releaseDate: Under review
-        summary: Under review
-
+        
       - title: "The dynamics of post-error slowing and cognitive control in children"
         authors:
           - "Rohini, S."
@@ -171,7 +285,7 @@ cv:
           - "Chevalier, N."
         publisher: Developmental Science
         releaseDate: Under review
-        summary: Under review. Shared first authorship.
+        summary: Shared first authorship
 
     Skills:
       - name: Research Methods
