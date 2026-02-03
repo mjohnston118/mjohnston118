@@ -3,15 +3,22 @@ cv:
   label: Researcher in Cognitive Development
   email: mjohnston69@qub.ac.uk
   location: Edinburgh, UK
-  summary: >
-    PhD in Cognitive Development from Queen's University Belfast.
-    My research focuses on understanding how children acquire knowledge and skills,
-    with a particular emphasis on future-oriented and social cognition.
-    Experienced in experimental design, data analysis, and academic writing,
-    I am passionate about advancing our understanding of cognitive processes in early childhood.
+  image: ""
+  summary: PhD in Cognitive Development from Queen's University Belfast. My research focuses on understanding how children acquire knowledge and skills, with a particular emphasis on future-oriented and social cognition. Experienced in experimental design, data analysis, and academic writing, I am passionate about advancing our understanding of cognitive processes in early childhood.
+
+  social_networks:
+    - network: Bluesky
+      username: mattdjohnston.bsky.social
+    - network: GitHub
+      username: mjohnston118
+    - network: LinkedIn
+      username: matthew-johnston-14b462151
+    - network: ResearchGate
+      username: Matthew-Johnston-14
+    - network: Google Scholar
+      username: 4nHRnloAAAAJ
 
   sections:
-
     Education:
       - institution: Queen's University Belfast
         location: Belfast, UK
@@ -19,10 +26,9 @@ cv:
         studyType: PhD
         start_date: 2018
         end_date: 2022
-        thesis: "The Development of Relief"
-        advisors:
-          - Prof. Aidan Feeney
-          - Prof. Teresa McCormack
+        highlights:
+          - "Thesis: The Development of Relief"
+          - "Advisors: Prof. Aidan Feeney & Prof. Teresa McCormack"
 
       - institution: Queen's University Belfast
         location: Belfast, UK
@@ -34,56 +40,38 @@ cv:
           - Award for top thesis student in final year
           - Erasmus exchange in Madrid
           - First Class Honours
-          - Relevant coursework: Developmental Psychology, Cognitive Psychology, Research Methods, Statistics
-
-    SocialNetworks:
-      - network: Bluesky
-        username: mattdjohnston.bsky.social
-      - network: GitHub
-        username: mjohnston118
-      - network: LinkedIn
-        username: matthew-johnston-14b462151
-      - network: ResearchGate
-        username: Matthew-Johnston-14
-      - network: Google Scholar
-        username: 4nHRnloAAAAJ
+          - "Relevant coursework: Developmental Psychology, Cognitive Psychology, Research Methods, Statistics"
 
     Experience:
       - company: University of Edinburgh
         position: Postdoctoral Researcher
         location: Edinburgh, UK
-        start_date: Sep 2022
-        end_date: Oct 2025
-        summary: >
-          Lead researcher on project exploring the developmental dynamics
-          between statistical learning and cognitive control.
+        start_date: 2022-09-01
+        end_date: 2025-10-01
+        summary: Lead researcher on project exploring the developmental dynamics between statistical learning and cognitive control.
         highlights:
           - Developed a novel measure of statistical learning in young children
           - Led longitudinal data collection involving EEG, eye-tracking, and behavioural data
           - Ran cross-sectional eye-tracking studies on cognitive control development
-        advisor:
-          - Dr Nicolas Chevalier
+          - "Advisor: Dr Nicolas Chevalier"
 
       - company: Queen's University Belfast
         position: Teaching Fellow
         location: Belfast, UK
-        start_date: Jan 2022
-        end_date: Sep 2022
-        summary: >
-          Delivered lectures, seminars, and laboratory sessions for undergraduate psychology courses.
+        start_date: 2022-01-01
+        end_date: 2022-09-01
+        summary: Delivered lectures, seminars, and laboratory sessions for undergraduate psychology courses.
         highlights:
-          - Organised the School’s 2022 International Summer School
+          - Organised the School's 2022 International Summer School
           - Delivered statistics laboratories for first-year students
           - Designed lectures on experimental design in developmental psychology
 
       - company: The Brilliant Club
         position: Academic Tutor
         location: Belfast, UK
-        start_date: Jan 2020
-        end_date: Jul 2020
-        summary: >
-          Designed and delivered a university-style course in Developmental Psychology
-          for pupils from underrepresented backgrounds.
+        start_date: 2020-01-01
+        end_date: 2020-07-01
+        summary: Designed and delivered a university-style course in Developmental Psychology for pupils from underrepresented backgrounds.
         highlights:
           - Excellent feedback from pupils and teachers
           - Adapted course materials for online delivery during COVID-19
@@ -93,40 +81,38 @@ cv:
         location: Belfast, UK
         start_date: 2017
         end_date: 2018
-        summary: >
-          Assisted with research on attention control training in preterm infants.
+        summary: Assisted with research on attention control training in preterm infants.
         highlights:
           - Co-authored three peer-reviewed publications
           - Collected behavioural and eye-tracking data for a randomised control trial
-        advisor: Prof. Oliver Perra
+          - "Advisor: Prof. Oliver Perra"
 
       - company: Education Authority, Northern Ireland
         position: Classroom Assistant
         location: Belfast, UK
-        start_date: Sep 2017
-        end_date: Sep 2018
-        summary: >
-          Supported children with special educational needs including autism and ADHD.
+        start_date: 2017-09-01
+        end_date: 2018-09-01
+        summary: Supported children with special educational needs including autism and ADHD.
         highlights:
           - One-to-one educational and social support
           - Assisted lesson planning and classroom delivery
           - Supported transition from special needs to mainstream education
 
-    Volunteering:
+    Volunteer:
       - company: Barretstown
         position: Volunteer Cara
         location: Co. Kildare, Ireland
-        date: Jul 2016
-        summary: >
-          Supported children with serious illnesses in recreational and team-building activities.
+        start_date: 2016-07-01
+        end_date: 2016-07-31
+        summary: Supported children with serious illnesses in recreational and team-building activities.
 
     Awards:
       - title: Associate Fellow of the Higher Education Academy (AFHEA)
-        date: Jul 2022
+        date: 2022-07-01
         awarder: Advance HE
 
       - title: STAR Award for Excellence in Teaching
-        date: Jul 2022
+        date: 2022-07-01
         awarder: School of Psychology, Queen's University Belfast
 
       - title: Top Thesis Student
@@ -136,86 +122,111 @@ cv:
     Publications:
       - title: "Statistical learning in childhood: dimensions, developmental trajectory, and relation with cognitive control"
         authors:
-          - "**Johnston, M.**"
-          - Dolan, J.
-          - Németh, D.
-          - Chevalier, N.
-        year: 2025
-        journal: Child Development
-        status: Minor revisions
-        preprint: PsyArXiv
+          - "Johnston, M."
+          - "Dolan, J."
+          - "Németh, D."
+          - "Chevalier, N."
+        publisher: Child Development
+        releaseDate: 2025
+        summary: Minor revisions. Preprint available on PsyArXiv.
 
       - title: "Counterfactual relief"
         authors:
-          - Feeney, A.
-          - Lorimer, S.
-          - Graham, A. J.
-          - Hoerl, C.
-          - Beck, S. R.
-          - "**Johnston, M.**"
-          - McCormack, T.
-        year: 2025
-        journal: Cognition
+          - "Feeney, A."
+          - "Lorimer, S."
+          - "Graham, A. J."
+          - "Hoerl, C."
+          - "Beck, S. R."
+          - "Johnston, M."
+          - "McCormack, T."
+        publisher: Cognition
+        releaseDate: 2025
 
       - title: "Relief in everyday life"
         authors:
-          - Graham, A. J.
-          - McCormack, T.
-          - Lorimer, S.
-          - "**Johnston, M.**"
-          - Hoerl, C.
-          - Feeney, A.
-        year: 2022
-        journal: Emotion
+          - "Graham, A. J."
+          - "McCormack, T."
+          - "Lorimer, S."
+          - "Johnston, M."
+          - "Hoerl, C."
+          - "Feeney, A."
+        publisher: Emotion
+        releaseDate: 2022
 
-    PublicationsInProgress:
       - title: "Developmental dynamics between cognitive control and statistical learning in middle childhood"
         authors:
-          - "**Johnston, M.**"
-          - Dolan, J.
-          - Farkas, B.
-          - Chevalier, N.
-        status: Under review
-        journal: Child Development
+          - "Johnston, M."
+          - "Dolan, J."
+          - "Farkas, B."
+          - "Chevalier, N."
+        publisher: Child Development
+        releaseDate: Under review
+        summary: Under review
 
       - title: "The dynamics of post-error slowing and cognitive control in children"
         authors:
-          - Rohini, S.*
-          - "**Johnston, M.**"
-          - Dolan, J.
-          - Chevalier, N.
-        status: Under review
-        journal: Developmental Science
-        note: "*Shared first authorship"
+          - "Rohini, S."
+          - "Johnston, M."
+          - "Dolan, J."
+          - "Chevalier, N."
+        publisher: Developmental Science
+        releaseDate: Under review
+        summary: Under review. Shared first authorship.
+
+    Skills:
+      - name: Research Methods
+        level: Expert
+        icon: fa-solid fa-microscope
+        keywords: "Experimental design with children, Eye-tracking (infants through adults), EEG data collection, Longitudinal study design, Behavioural observation and coding"
+
+      - name: Data Analysis
+        level: Expert
+        icon: fa-solid fa-chart-line
+        keywords: "R (advanced), Statistical modeling, Mixed-effects models, Data visualization"
+
+      - name: Teaching
+        level: Advanced
+        icon: fa-solid fa-chalkboard-user
+        keywords: "Lecture design and delivery, Statistics instruction, Laboratory supervision, Curriculum development"
 
     Languages:
       - name: English
-        summary: Native speaker
-      - name: Spanish
-        summary: Conversational proficiency
+        summary: "Native speaker"
 
-    Grants:
-      - name: Research Incentive Grant
-        awarded_by: Carnegie Trust for the Universities of Scotland (£12,612)
-        start_date: Sep 2024
-        end_date: Sep 2025
-        summary: >
-          Funding to support research into the developmental dynamics between
-          statistical learning and cognitive control in older adults.
+      - name: Spanish
+        summary: "Conversational proficiency"
+
+    Interests:
+      - name: Cognitive Development
+        icon: fa-solid fa-brain
+        keywords: "Statistical learning, Cognitive control, Future-oriented cognition, Counterfactual thinking, Emotional development"
+
+      - name: Research Methodologies
+        icon: fa-solid fa-flask
+        keywords: "Eye-tracking, EEG, Longitudinal designs, Developmental psychology methods"
+
+    Projects:
+      - name: Statistical Learning and Cognitive Control
+        summary: Carnegie Trust funded research exploring the developmental dynamics between statistical learning and cognitive control in older adults.
+        highlights:
+          - Research Incentive Grant (£12,612)
+          - Carnegie Trust for the Universities of Scotland
+        start_date: 2024-09-01
+        end_date: 2025-09-01
 
     References:
       - name: Dr Nicolas Chevalier
-        relationship: Postdoctoral Supervisor
-        email: nicolas.chevalier@ed.ac.uk
+        icon: fa-solid fa-envelope
+        reference: Postdoctoral Supervisor, University of Edinburgh. Email - nicolas.chevalier@ed.ac.uk
 
       - name: Prof. Aidan Feeney
-        relationship: PhD Supervisor
-        email: a.feeney@qub.ac.uk
+        icon: fa-solid fa-envelope
+        reference: PhD Supervisor, Queen's University Belfast. Email - a.feeney@qub.ac.uk
 
       - name: Prof. Teresa McCormack
-        relationship: PhD Supervisor
-        email: t.mccormack@qub.ac.uk
+        icon: fa-solid fa-envelope
+        reference: PhD Supervisor, Queen's University Belfast. Email - t.mccormack@qub.ac.uk
 
       - name: Dr Oliver Perra
-        relationship: Research Advisor
-        email: o.perra@qub.ac.uk
+        icon: fa-solid fa-envelope
+        reference: Research Advisor, Queen's University Belfast. Email - o.perra@qub.ac.uk
