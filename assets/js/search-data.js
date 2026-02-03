@@ -30,13 +30,6 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/mjohnston118/cv/";
           },
-        },{id: "nav-teaching",
-          title: "teaching",
-          description: "Course materials, schedules, and resources for classes taught.",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/mjohnston118/teaching/";
-          },
         },{id: "dropdown-cv",
               title: "cv",
               description: "",
