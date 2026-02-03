@@ -1,14 +1,9 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - mjohnston118
 
 repo_description_lines_max: 2
 
 github_repos:
-  - alshedivat/al-folio
-  - jekyll/jekyll
-  - twbs/bootstrap
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - mathjax/MathJax
-  - jpswalsh/academicons
+  - mjohnston118/Vehicle-Sorting-Task---built-using-Open-Sesame
+  - mjohnston118/Contextual-Cueing-Task-created-with-Open-Sesame
+  - mjohnston118/Alternating-Serial-Reaction-Time-Task-created-with-jsPsych-auditory-feedback-version-
