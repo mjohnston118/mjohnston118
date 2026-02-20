@@ -1,8 +1,8 @@
 metadata:
-  last_updated: '2026-02-11'
+  last_updated: '2026-02-20'
 papers:
   4nHRnloAAAAJ:0EnyYjriUFMC:
-    citations: 1
+    citations: 2
     title: An experimental investigation of the effects of anticipating regret and relief on intentions and decisions to get the influenza vaccination.
     year: '2025'
   4nHRnloAAAAJ:5nxA0vEk-isC:
@@ -21,12 +21,16 @@ papers:
     citations: 0
     title: Theory of Planned Behaviour, Anticipated Emotions, and the Seasonal Flu Vaccination
     year: '2021'
+  4nHRnloAAAAJ:MXK_kJrjxJIC:
+    citations: 0
+    title: Counterfactual relief
+    year: '2025'
   4nHRnloAAAAJ:Se3iqnhoufwC:
     citations: 0
     title: 'Getting Brexit Done: Leavers and Remainers Experience of Relief and Regret About the United Kingdom''s Decision to Leave the EU'
     year: '2020'
   4nHRnloAAAAJ:Tyk-4Ss8FVUC:
-    citations: 15
+    citations: 14
     title: 'Very preterm infants engage in an intervention to train their control of attention: results from the feasibility study of the Attention Control Training (ACT) randomised trial'
     year: '2021'
   4nHRnloAAAAJ:UeHWp8X0CEIC:
@@ -61,16 +65,12 @@ papers:
     citations: 3
     title: "Relieved or disappointed? Children\u2019s understanding of how others feel at the cessation of events"
     year: '2024'
-  4nHRnloAAAAJ:hqOjcs7Dif8C:
-    citations: 0
-    title: Does immature cognitive control favour statistical learning?
-    year: '2024'
   4nHRnloAAAAJ:roLk4NBRz8UC:
     citations: 7
     title: Do both anticipated relief and anticipated regret predict decisions about influenza vaccination?
     year: '2024'
   4nHRnloAAAAJ:ufrVoPGSRksC:
-    citations: 3
+    citations: 4
     title: "Testicular self\u2010examination: The role of anticipated relief and anticipated regret"
     year: '2025'
   4nHRnloAAAAJ:zYLM7Y9cAGgC:
