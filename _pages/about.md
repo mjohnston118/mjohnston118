@@ -8,17 +8,14 @@ profile:
   align: right
   image: MJ_SRCD.jpg
   image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>University of Edinburgh</p>
-    <p>Philosophy, Psychology, and Linguistic Sciences</p>
-    <p>Edinburgh</p>
+  more_info: 
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 
 ---
 
-Postdoctoral Researcher in Developmental Psychology. Research interests include the development of cognitive control, proactive control, and episodic future thinking. Also interested in affective psychology and the links between anticipatory emotions and decision-making. See [here](https://osf.io/kp68q_v1/) for my latest pre-print exploring the developmental dynamics between statistical learning and cognitive control. 
+Researcher in Developmental Psychology. Research interests include the development of cognitive control, proactive control, and episodic future thinking. Also interested in affective psychology and the links between anticipatory emotions and decision-making. See [here](https://osf.io/preprints/psyarxiv/xj5e2_v3) for my latest pre-print exploring the developmental dynamics between statistical learning and cognitive control. 
 
 Demonstrative ability to independently secure grants and to work collaboratively within teams. Proficient programming skills with experience in R, Python, JavaScript, and Matlab. Substantial leadership skills and teaching experience at undergraduate and MSc level with an AFHEA qualification. Passionate about developing creative experiments that capture latent psychological and social constructs.
 

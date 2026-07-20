@@ -43,6 +43,18 @@ cv:
           - "Relevant coursework: Developmental Psychology, Cognitive Psychology, Research Methods, Statistics"
 
     Experience:
+      - company: York St John
+        position: Lecturer
+        location: York, UK
+        start_date: 2026-04-01
+        end_date: 2027-05-01
+        summary: Lecturer in Psychology. Module lead on Developmental Psychology
+        highlights:
+          - Supervised and marked eight thesis students, 40+ first year cognition essays, and 50 employability portfolios
+          - Led the Developmental Psychology Level 2 module. Includes designing online material and responding to student queries through the Moodle, virtual learning environment.
+          - Ran cross-sectional eye-tracking studies on cognitive control development
+          - Delivered group tutorials to groups of 30 students both in-person and online.
+          - Attended workshops in addressing Gen-AI in higher education. Put this to practice in designing assessments that aim to mitigate Gen-AI misuse.
       - company: University of Edinburgh
         position: Postdoctoral Researcher
         location: Edinburgh, UK
@@ -120,6 +132,16 @@ cv:
         awarder: Queen's University Belfast
 
     Publications:
+      - title: "Age-related changes in how previous learning experiences impact subsequent visualstatistical learning and relate to executive functions - a longitudinal study."
+        authors:
+          - "Johnston, M."
+          - "Dolan, J."
+          - "Farkas, C., B."
+          - "Chevalier, N."
+        publisher: Child Development
+        releaseDate: accepted, indicative publication August 2026
+        Preprint: https://osf.io/preprints/psyarxiv/xj5e2_v3
+        
       - title: "Statistical learning in childhood: dimensions, developmental trajectory, and relation with cognitive control"
         authors:
           - "Johnston, M."
@@ -127,8 +149,8 @@ cv:
           - "Németh, D."
           - "Chevalier, N."
         publisher: Child Development
-        releaseDate: Resubmit
-        summary: Minor revisions. Preprint available on PsyArXiv.
+        releaseDate: 2026
+        DOI: https://doi.org/10.1093/chidev/aacag031
 
       - title: "Counterfactual Relief"
         authors:
