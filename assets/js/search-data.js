@@ -30,6 +30,13 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/mjohnston118/cv/";
           },
+        },{id: "nav-outreach",
+          title: "outreach",
+          description: "",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/mjohnston118/outreach/";
+          },
         },{id: "dropdown-cv",
               title: "cv",
               description: "",
