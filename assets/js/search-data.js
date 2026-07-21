@@ -16,12 +16,19 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/mjohnston118/publications/";
           },
-        },{id: "nav-repositories",
-          title: "repositories",
-          description: "See below for repositories for my experiments",
+        },{id: "nav-projects",
+          title: "projects",
+          description: "",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/mjohnston118/repositories/";
+            window.location.href = "/mjohnston118/projects/";
+          },
+        },{id: "nav-outreach",
+          title: "outreach",
+          description: "",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/mjohnston118/outreach/";
           },
         },{id: "nav-cv",
           title: "CV",
@@ -30,12 +37,12 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/mjohnston118/cv/";
           },
-        },{id: "nav-outreach",
-          title: "outreach",
-          description: "",
+        },{id: "nav-repositories",
+          title: "repositories",
+          description: "See below for repositories for my experiments",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/mjohnston118/outreach/";
+            window.location.href = "/mjohnston118/repositories/";
           },
         },{id: "dropdown-cv",
               title: "cv",
