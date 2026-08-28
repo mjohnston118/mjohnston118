@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-08-05'
+  last_updated: '2026-08-28'
 papers:
   4nHRnloAAAAJ:0EnyYjriUFMC:
     citations: 2
@@ -17,6 +17,10 @@ papers:
     citations: 7
     title: "Children\u2019s understanding of counterfactual and temporal relief in others"
     year: '2022'
+  4nHRnloAAAAJ:KlAtU1dfN6UC:
+    citations: 0
+    title: 'Age-related changes in how previous learning experiences impact subsequent visual statistical learning and relate to executive functions: A longitudinal study'
+    year: '2026'
   4nHRnloAAAAJ:LkGwnXOMwfcC:
     citations: 0
     title: Theory of Planned Behaviour, Anticipated Emotions, and the Seasonal Flu Vaccination
@@ -38,11 +42,11 @@ papers:
     title: 'Training attention control of very preterm infants: protocol for a feasibility study of the Attention Control Training (ACT)'
     year: '2020'
   4nHRnloAAAAJ:UebtZRa9Y70C:
-    citations: 2
+    citations: 3
     title: 'Statistical learning in childhood: Dimensions, developmental trajectory, and relation with cognitive control'
     year: '2026'
   4nHRnloAAAAJ:W7OEmFMy1HYC:
-    citations: 24
+    citations: 25
     title: Relief in everyday life.
     year: '2023'
   4nHRnloAAAAJ:WF5omc3nYNoC:
